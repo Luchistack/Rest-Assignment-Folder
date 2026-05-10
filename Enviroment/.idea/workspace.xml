@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e92db1a6-b9c0-410f-9dca-8868ff39d177" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Python assingment/BankApp/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python assingment/BankApp/account_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python assingment/BankApp/bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python assingment/BankApp/bank_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python assingment/BankApp/main_menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/CowryWise Bank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/src/CowryWiseBank/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/src/CowryWiseBank/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/src/CowryWiseBank/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/src/CowryWiseBank/BankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/src/CowryWiseBank/InsufficientFundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/src/CowryWiseBank/InvalidAmountException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Bank/src/CowryWiseBank/InvalidPinException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/BankAccount.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/BankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/BankProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/BankService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/Exceptions/InsufficientFundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/Exceptions/InvalidAmountException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/Exceptions/InvalidPinException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/BankAccountInt/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/Dairy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/src/MainDiaryApplication/Diaries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/src/MainDiaryApplication/DiariesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/src/MainDiaryApplication/Diary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/src/MainDiaryApplication/DiaryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/src/MainDiaryApplication/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/DairyTest/src/MainDiaryApplication/MainDiaryApllication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Data STructure/LuchiQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Data STructure/LuchiSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Data STructure/LuchiStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Data STructure/TestMySet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Data STructure/TestQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/Enum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/src/Problems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Assignment/Enum/src/States.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Js/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/.idea/DikeFaithOluchi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/book_suggestion_system.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/DikeFaithOluchi/test_book_suggestion_system.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/ESTORE APP(1).drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/Estore App Class Diaram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/Estore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/Estore_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python assingment/bright_school_app_and_test" beforeDir="false" afterPath="$PROJECT_DIR$/../Python assingment/bright_school_app_and_test" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3DT1SuuN29abBkFedYXIjtOMSlx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e92db1a6-b9c0-410f-9dca-8868ff39d177" name="Changes" comment="" />
+      <created>1778291506155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778291506155</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
