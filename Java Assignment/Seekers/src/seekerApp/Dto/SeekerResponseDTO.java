@@ -4,7 +4,7 @@ public class SeekerResponseDTO {
 
     private int id;
     private String name;
-//    getters & setters for currentLocation
+
     private String currentLocation;
 
 

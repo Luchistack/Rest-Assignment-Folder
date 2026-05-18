@@ -1,4 +1,4 @@
-package seekerApp.repository;
+package seekerApp.Test;
 
 
 import org.junit.jupiter.api.BeforeEach;
@@ -6,9 +6,11 @@ import org.junit.jupiter.api.Test;
 import seekerApp.models.Complexion;
 import seekerApp.models.Gender;
 import seekerApp.models.Seeker;
+import seekerApp.repository.SeekerRepository;
+import seekerApp.repository.SeekerRepositoryImpl;
 
 import java.time.LocalDate;
-import java.util.Date;
+
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
