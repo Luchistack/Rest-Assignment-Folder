@@ -1,4 +1,4 @@
-package seekerApp.exceptions;
+package seekerApp.Exceptions;
 
 public class MessageNotFoundException extends RuntimeException {
     public MessageNotFoundException(String message) {
