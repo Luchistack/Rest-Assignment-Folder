@@ -1,5 +1,7 @@
 package main.hotel.management.system.data.Models;
 
+import javax.management.relation.Role;
+
 public class Staff {
     private String staffId;
     private String firstName;

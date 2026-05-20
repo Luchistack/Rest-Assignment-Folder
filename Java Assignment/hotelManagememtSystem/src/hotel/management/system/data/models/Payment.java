@@ -9,7 +9,7 @@ public class Payment {
     private Booking bookingId;
     private double amountPaid;
     private LocalDate paymentDate;
-    private PaymentMethod paymentMethod;
+    private main.hotel.management.system.data.Models.PaymentMethod paymentMethod;
     private PaymentStatus paymentStatus;
 
 

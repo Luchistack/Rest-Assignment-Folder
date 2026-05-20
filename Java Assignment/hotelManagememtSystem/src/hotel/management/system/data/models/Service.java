@@ -1,4 +1,4 @@
-package hotel.management.system.data.Models;
+package main.hotel.management.system.data.models;
 
 
 import main.hotel.management.system.data.Models.ServiceCategory;

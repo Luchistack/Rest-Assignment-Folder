@@ -1,5 +1,6 @@
-package main.hotel.management.system.data.Models;
-
+package main.hotel.management.system.data.models;
+import  main.hotel.management.system.data.Models.ServiceCategory;
+import main.hotel.management.system.data.Models.Booking;
 import java.time.LocalDate;
 
 public class Invoice {
