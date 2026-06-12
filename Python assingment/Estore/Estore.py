@@ -55,11 +55,15 @@ class Customer(User):
 
 class Seller(User):
         
-    pass
+    def __init__(self, name, age, email, password, phone, address):
+
+        super().__init__(name, age, email, password, phone, address)
 
 class Admin(User):
 
-    pass
+    def __init__(self, name, age, email, password, phone, address):
+
+        super().__init__(name, age, email, password, phone, address)
 
 
 class Product:
